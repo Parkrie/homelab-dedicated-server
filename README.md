@@ -59,7 +59,7 @@ Hosted Service
 
 The router handles NAT and the port forward rule. Firewall policy on the server VLAN blocks the VM from initiating connections to other internal subnets, so even if the VM were compromised, lateral movement to the rest of the network would be blocked.
 
-![Network Diagram](diagrams/network-diagram.png)
+![Network Diagram](diagrams/network-diagram.png?raw=true)
 
 ---
 
